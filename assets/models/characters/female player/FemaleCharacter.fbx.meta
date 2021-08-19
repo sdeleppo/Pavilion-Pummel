@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 018f7751d4a4f8f41900e9b62367d59f
+timeCreated: 1429298353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: metarig
+    100006: metarig|chest
+    100008: metarig|f_index.01.L
+    100010: metarig|f_index.01.R
+    100012: metarig|f_index.02.L
+    100014: metarig|f_index.02.R
+    100016: metarig|f_index.03.L
+    100018: metarig|f_index.03.R
+    100020: metarig|f_middle.01.L
+    100022: metarig|f_middle.01.R
+    100024: metarig|f_middle.02.L
+    100026: metarig|f_middle.02.R
+    100028: metarig|f_middle.03.L
+    100030: metarig|f_middle.03.R
+    100032: metarig|f_pinky.01.L
+    100034: metarig|f_pinky.01.R
+    100036: metarig|f_pinky.02.L
+    100038: metarig|f_pinky.02.R
+    100040: metarig|f_pinky.03.L
+    100042: metarig|f_pinky.03.R
+    100044: metarig|f_ring.01.L
+    100046: metarig|f_ring.01.R
+    100048: metarig|f_ring.02.L
+    100050: metarig|f_ring.02.R
+    100052: metarig|f_ring.03.L
+    100054: metarig|f_ring.03.R
+    100056: metarig|foot.L
+    100058: metarig|foot.R
+    100060: metarig|forearm.L
+    100062: metarig|forearm.R
+    100064: metarig|hand.L
+    100066: metarig|hand.R
+    100068: metarig|head
+    100070: metarig|heel.02.L
+    100072: metarig|heel.02.R
+    100074: metarig|heel.L
+    100076: metarig|heel.R
+    100078: metarig|hips
+    100080: metarig|neck
+    100082: metarig|palm.01.L
+    100084: metarig|palm.01.R
+    100086: metarig|palm.02.L
+    100088: metarig|palm.02.R
+    100090: metarig|palm.03.L
+    100092: metarig|palm.03.R
+    100094: metarig|palm.04.L
+    100096: metarig|palm.04.R
+    100098: metarig|shin.L
+    100100: metarig|shin.R
+    100102: metarig|shoulder.L
+    100104: metarig|shoulder.R
+    100106: metarig|spine
+    100108: metarig|thigh.L
+    100110: metarig|thigh.R
+    100112: metarig|thumb.01.L
+    100114: metarig|thumb.01.R
+    100116: metarig|thumb.02.L
+    100118: metarig|thumb.02.R
+    100120: metarig|thumb.03.L
+    100122: metarig|thumb.03.R
+    100124: metarig|toe.L
+    100126: metarig|toe.R
+    100128: metarig|upper_arm.L
+    100130: metarig|upper_arm.R
+    400000: Cube
+    400002: //RootNode
+    400004: metarig
+    400006: metarig|chest
+    400008: metarig|f_index.01.L
+    400010: metarig|f_index.01.R
+    400012: metarig|f_index.02.L
+    400014: metarig|f_index.02.R
+    400016: metarig|f_index.03.L
+    400018: metarig|f_index.03.R
+    400020: metarig|f_middle.01.L
+    400022: metarig|f_middle.01.R
+    400024: metarig|f_middle.02.L
+    400026: metarig|f_middle.02.R
+    400028: metarig|f_middle.03.L
+    400030: metarig|f_middle.03.R
+    400032: metarig|f_pinky.01.L
+    400034: metarig|f_pinky.01.R
+    400036: metarig|f_pinky.02.L
+    400038: metarig|f_pinky.02.R
+    400040: metarig|f_pinky.03.L
+    400042: metarig|f_pinky.03.R
+    400044: metarig|f_ring.01.L
+    400046: metarig|f_ring.01.R
+    400048: metarig|f_ring.02.L
+    400050: metarig|f_ring.02.R
+    400052: metarig|f_ring.03.L
+    400054: metarig|f_ring.03.R
+    400056: metarig|foot.L
+    400058: metarig|foot.R
+    400060: metarig|forearm.L
+    400062: metarig|forearm.R
+    400064: metarig|hand.L
+    400066: metarig|hand.R
+    400068: metarig|head
+    400070: metarig|heel.02.L
+    400072: metarig|heel.02.R
+    400074: metarig|heel.L
+    400076: metarig|heel.R
+    400078: metarig|hips
+    400080: metarig|neck
+    400082: metarig|palm.01.L
+    400084: metarig|palm.01.R
+    400086: metarig|palm.02.L
+    400088: metarig|palm.02.R
+    400090: metarig|palm.03.L
+    400092: metarig|palm.03.R
+    400094: metarig|palm.04.L
+    400096: metarig|palm.04.R
+    400098: metarig|shin.L
+    400100: metarig|shin.R
+    400102: metarig|shoulder.L
+    400104: metarig|shoulder.R
+    400106: metarig|spine
+    400108: metarig|thigh.L
+    400110: metarig|thigh.R
+    400112: metarig|thumb.01.L
+    400114: metarig|thumb.01.R
+    400116: metarig|thumb.02.L
+    400118: metarig|thumb.02.R
+    400120: metarig|thumb.03.L
+    400122: metarig|thumb.03.R
+    400124: metarig|toe.L
+    400126: metarig|toe.R
+    400128: metarig|upper_arm.L
+    400130: metarig|upper_arm.R
+    4300000: Cube
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: metarig|hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thigh.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thigh.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|shin.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|shin.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|foot.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|foot.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|shoulder.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|shoulder.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|upper_arm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|upper_arm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|hand.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|hand.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|palm.01.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|palm.01.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|toe.L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|toe.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thumb.01.L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thumb.02.L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thumb.03.L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|f_index.01.L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|f_index.02.L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thumb.01.R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thumb.02.R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|thumb.03.R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|f_index.01.R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: metarig|f_index.02.R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: FemaleCharacter(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube
+      position: {x: -.000249713659, y: .00184107572, z: 1.06787491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .138800323, y: .138800323, z: .138800323}
+      transformModified: 1
+    - name: metarig
+      position: {x: .000249713659, y: .000103837563, z: .00184107572}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|hips
+      position: {x: -0, y: .0551999994, z: .586709738}
+      rotation: {x: .778972507, y: -2.4276158e-08, z: -3.01574268e-08, w: .627058089}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|spine
+      position: {x: 1.12726596e-15, y: .177905738, z: 1.11758709e-08}
+      rotation: {x: -.0745304227, y: -6.55604993e-08, z: 1.0670675e-08, w: .997218728}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|chest
+      position: {x: -9.10520184e-17, y: .254516542, z: -1.28056854e-09}
+      rotation: {x: -.046308659, y: 5.59105384e-09, z: 9.4154009e-09, w: .998927176}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|neck
+      position: {x: -2.5135888e-16, y: .41366148, z: 0}
+      rotation: {x: .155296281, y: 3.18297566e-08, z: -2.57016435e-08, w: .987867951}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: metarig|head
+      position: {x: -1.98104659e-15, y: .128283992, z: -2.04890966e-08}
+      rotation: {x: -.142146781, y: 6.5963313e-08, z: 9.47266532e-09, w: .989845574}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: metarig|shoulder.L
+      position: {x: -.0182999857, y: .358458191, z: .0783597529}
+      rotation: {x: -.570048988, y: .403363466, z: .403598964, w: .591143012}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|upper_arm.L
+      position: {x: -.00876607187, y: .262036115, z: -.0232398212}
+      rotation: {x: .0346068814, y: -.706101239, z: .0899069384, w: .701526999}
+      scale: {x: .999999821, y: .999999881, z: 1}
+      transformModified: 1
+    - name: metarig|forearm.L
+      position: {x: -1.20140612e-07, y: .294833541, z: -1.02445483e-08}
+      rotation: {x: .230894119, y: .0862124488, z: .0286931079, w: .968727052}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: metarig|hand.L
+      position: {x: 1.18045136e-07, y: .242289618, z: -8.38190317e-09}
+      rotation: {x: -.216675222, y: -.701718569, z: .193939, w: .65040803}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|palm.01.L
+      position: {x: .0191911552, y: .0509182066, z: -.00327239768}
+      rotation: {x: -.00772745814, y: .00700716395, z: -.0691068098, w: .997554779}
+      scale: {x: .999999762, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: metarig|f_index.01.L
+      position: {x: 7.4505806e-09, y: .0565810353, z: -2.10711733e-08}
+      rotation: {x: .0168073997, y: -.0439850464, z: -.0398508422, w: .998095632}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: metarig|f_index.02.L
+      position: {x: -1.11758709e-08, y: .0366012268, z: 8.70786607e-08}
+      rotation: {x: .0396714024, y: .00362154678, z: .00213250425, w: .99920392}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|f_index.03.L
+      position: {x: -9.31322575e-09, y: .0229354259, z: -3.53902578e-08}
+      rotation: {x: .113900185, y: -.00234159688, z: .0333041698, w: .992931068}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: metarig|thumb.01.L
+      position: {x: .0111984387, y: -.00146513246, z: .0135593601}
+      rotation: {x: -.181216881, y: -.526676357, z: -.397111326, w: .729434848}
+      scale: {x: .999999881, y: .999999702, z: .999999821}
+      transformModified: 1
+    - name: metarig|thumb.02.L
+      position: {x: 7.4505806e-08, y: .0339233093, z: -5.21540642e-08}
+      rotation: {x: .0292458404, y: .0315618664, z: .018773457, w: .998897433}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|thumb.03.L
+      position: {x: -3.44589353e-08, y: .0271799844, z: -1.49011612e-08}
+      rotation: {x: .00952236168, y: -.00303137163, z: .0432741083, w: .999013305}
+      scale: {x: .99999994, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: metarig|palm.02.L
+      position: {x: .0055285506, y: .0527869426, z: -.00564987399}
+      rotation: {x: -.0171307717, y: .00687695993, z: -.0263727419, w: .999481738}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|f_middle.01.L
+      position: {x: -1.86264515e-09, y: .0554114655, z: -4.99421731e-08}
+      rotation: {x: .214586616, y: -.0225248281, z: .0355479866, w: .975797951}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|f_middle.02.L
+      position: {x: -3.7252903e-09, y: .0402584374, z: -7.33416528e-08}
+      rotation: {x: .118412346, y: .0331044458, z: .0140209692, w: .992313504}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: metarig|f_middle.03.L
+      position: {x: 9.31322575e-09, y: .0261637531, z: -1.40280463e-08}
+      rotation: {x: .058275599, y: .0157097895, z: .0205130596, w: .99796617}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|palm.03.L
+      position: {x: -.00704146549, y: .0510530546, z: -.00536260102}
+      rotation: {x: -.0301813036, y: .0111743435, z: .0384276137, w: .998742998}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: metarig|f_ring.01.L
+      position: {x: 2.32830644e-09, y: .0567201972, z: 7.67176971e-08}
+      rotation: {x: .282074958, y: .0114942351, z: .00604670728, w: .959304512}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: metarig|f_ring.02.L
+      position: {x: 4.65661287e-09, y: .0364198238, z: -4.97675501e-08}
+      rotation: {x: .0740284175, y: .0173464902, z: .0212050155, w: .996879756}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: metarig|f_ring.03.L
+      position: {x: -4.65661287e-09, y: .0258428287, z: 5.30271791e-08}
+      rotation: {x: .156775013, y: .0374810286, z: .0365574881, w: .986245573}
+      scale: {x: .999999881, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: metarig|palm.04.L
+      position: {x: -.0190380067, y: .047635965, z: -.00372762838}
+      rotation: {x: -.00954186823, y: -.0142167425, z: .101249553, w: .994713724}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: metarig|f_pinky.01.L
+      position: {x: -5.12227416e-09, y: .0607872792, z: -1.53617293e-07}
+      rotation: {x: .350810051, y: .0720911101, z: -.00825156178, w: .933631122}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|f_pinky.02.L
+      position: {x: -2.42143869e-08, y: .02265344, z: -1.16648152e-07}
+      rotation: {x: .0436424054, y: .00916270539, z: .016086366, w: .998875678}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|f_pinky.03.L
+      position: {x: 4.65661287e-09, y: .0183595903, z: 9.91858542e-08}
+      rotation: {x: .086424835, y: .0160050392, z: .0147628188, w: .996020436}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|shoulder.R
+      position: {x: .0183000155, y: .358458191, z: .0783597529}
+      rotation: {x: -.570049107, y: -.403363287, z: -.403598845, w: .591143012}
+      scale: {x: .999999881, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: metarig|upper_arm.R
+      position: {x: .00876604952, y: .262036115, z: -.0232399497}
+      rotation: {x: .0346071906, y: .706101239, z: -.0899068266, w: .701527059}
+      scale: {x: .999999762, y: .999999881, z: 1}
+      transformModified: 1
+    - name: metarig|forearm.R
+      position: {x: 1.47963874e-07, y: .294833571, z: -3.7252903e-09}
+      rotation: {x: .230894119, y: -.0862124264, z: -.0286931135, w: .968727052}
+      scale: {x: 1, y: 1, z: .999999762}
+      transformModified: 1
+    - name: metarig|hand.R
+      position: {x: 4.44706529e-08, y: .242289573, z: -4.51691449e-08}
+      rotation: {x: -.216676176, y: .701718271, z: -.193939239, w: .65040803}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|palm.01.R
+      position: {x: -.0191911608, y: .0509181432, z: -.00327224913}
+      rotation: {x: -.00772745814, y: -.00700712157, z: .0691068098, w: .997554779}
+      scale: {x: .999999821, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: metarig|f_index.01.R
+      position: {x: -1.49011612e-08, y: .0565810017, z: 3.41096893e-08}
+      rotation: {x: .0168096647, y: .0439854041, z: .0398514532, w: .998095453}
+      scale: {x: .999999762, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|f_index.02.R
+      position: {x: 1.49011612e-08, y: .0366012193, z: -9.63918865e-08}
+      rotation: {x: .0396705233, y: -.00362136913, z: -.00213329471, w: .99920404}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: metarig|f_index.03.R
+      position: {x: 1.3038516e-08, y: .0229355395, z: -1.5925616e-07}
+      rotation: {x: .113900207, y: .00234157988, z: -.033304166, w: .992931068}
+      scale: {x: .999999821, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|thumb.01.R
+      position: {x: -.0111984499, y: -.00146522559, z: .0135592967}
+      rotation: {x: -.18121767, y: .52667582, z: .397112131, w: .72943449}
+      scale: {x: .999999881, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: metarig|thumb.02.R
+      position: {x: -1.11758709e-08, y: .033923354, z: -7.4505806e-09}
+      rotation: {x: .0292439125, y: -.0315615945, z: -.0187711939, w: .998897612}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: metarig|thumb.03.R
+      position: {x: 3.81842256e-08, y: .0271799527, z: -1.49011612e-08}
+      rotation: {x: .00952235423, y: .00303138094, z: -.0432741195, w: .999013305}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig|palm.02.R
+      position: {x: -.00552856363, y: .052786883, z: -.00564972498}
+      rotation: {x: -.0171307921, y: -.00687691104, z: .0263727363, w: .999481738}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: metarig|f_middle.01.R
+      position: {x: 3.7252903e-09, y: .0554114506, z: 6.63567334e-08}
+      rotation: {x: .214586645, y: .0225248151, z: -.0355479866, w: .975797951}
+      scale: {x: .999999821, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: metarig|f_middle.02.R
+      position: {x: 1.49011612e-08, y: .0402585231, z: 4.42378223e-08}
+      rotation: {x: .118412361, y: -.0331044346, z: -.0140209654, w: .992313504}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: metarig|f_middle.03.R
+      position: {x: -5.58793545e-09, y: .0261637215, z: -4.54601832e-08}
+      rotation: {x: .0582755916, y: -.0157097951, z: -.0205130614, w: .99796617}
+      scale: {x: .999999762, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: metarig|palm.03.R
+      position: {x: .00704145432, y: .0510530546, z: -.0053623328}
+      rotation: {x: -.0301813092, y: -.0111742895, z: -.0384276174, w: .998742998}
+      scale: {x: 1, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: metarig|f_ring.01.R
+      position: {x: -3.25962901e-09, y: .0567201637, z: 1.05559593e-07}
+      rotation: {x: .282074839, y: -.0114942323, z: -.00604671007, w: .959304512}
+      scale: {x: .99999994, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: metarig|f_ring.02.R
+      position: {x: -9.31322575e-10, y: .0364198834, z: 9.02218744e-09}
+      rotation: {x: .0740284175, y: -.0173464958, z: -.0212050155, w: .996879756}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|f_ring.03.R
+      position: {x: 6.51925802e-09, y: .0258427076, z: -1.56345777e-07}
+      rotation: {x: .156775013, y: -.0374810286, z: -.0365574807, w: .986245573}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: metarig|palm.04.R
+      position: {x: .0190380048, y: .0476359054, z: -.00372750917}
+      rotation: {x: -.00954185799, y: .0142167974, z: -.101249561, w: .994713724}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: metarig|f_pinky.01.R
+      position: {x: 1.86264515e-09, y: .0607873276, z: 1.75918103e-07}
+      rotation: {x: .350810111, y: -.072091125, z: .0082515683, w: .933631122}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: metarig|f_pinky.02.R
+      position: {x: -0, y: .0226534121, z: 2.32830644e-09}
+      rotation: {x: .0436423868, y: -.00916272867, z: -.016086366, w: .998875678}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: metarig|f_pinky.03.R
+      position: {x: -1.02445483e-08, y: .0183595624, z: 1.27824023e-07}
+      rotation: {x: .0864248574, y: -.016005028, z: -.0147628179, w: .996020436}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: metarig|thigh.L
+      position: {x: -.117580764, y: .188040197, z: .0026975933}
+      rotation: {x: .992999852, y: -.00530622201, z: .00109999964, w: .11799144}
+      scale: {x: 1, y: 1, z: 1.00000095}
+      transformModified: 1
+    - name: metarig|shin.L
+      position: {x: -3.93811206e-10, y: .390399486, z: 5.09317033e-10}
+      rotation: {x: .000114194256, y: .00388730131, z: -.0468861833, w: .998892665}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: metarig|foot.L
+      position: {x: -4.46743798e-09, y: .310088247, z: 2.32830644e-10}
+      rotation: {x: -.475082934, y: -.0235572606, z: .0344334915, w: .87895143}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: metarig|toe.L
+      position: {x: -1.59675597e-08, y: .10196238, z: 4.66872052e-09}
+      rotation: {x: -4.85318878e-08, y: .961248755, z: -.275682509, w: -6.46227178e-08}
+      scale: {x: 1, y: 1.00000036, z: .99999994}
+      transformModified: 1
+    - name: metarig|heel.L
+      position: {x: -4.46743798e-09, y: .310088247, z: 2.32830644e-10}
+      rotation: {x: -.0403545126, y: .934594512, z: .353259385, w: -.0106035871}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: metarig|heel.02.L
+      position: {x: -.029978767, y: .043089021, z: .0531456284}
+      rotation: {x: .641378462, y: .641376376, z: -.297713995, w: .297718704}
+      scale: {x: .999999702, y: 1, z: .99999994}
+      transformModified: 1
+    - name: metarig|thigh.R
+      position: {x: .117580764, y: .188040197, z: .00269757141}
+      rotation: {x: .992999852, y: .00530623831, z: -.00110008253, w: .11799144}
+      scale: {x: 1, y: 1, z: 1.00000095}
+      transformModified: 1
+    - name: metarig|shin.R
+      position: {x: -1.31112756e-08, y: .390399486, z: 3.12866177e-10}
+      rotation: {x: .000114194292, y: -.00388730224, z: .0468861833, w: .998892665}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: metarig|foot.R
+      position: {x: 4.49654181e-09, y: .310088247, z: 2.32830644e-10}
+      rotation: {x: -.475082934, y: .0235572606, z: -.0344334915, w: .87895143}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: metarig|toe.R
+      position: {x: 1.59675597e-08, y: .101962388, z: 7.64392993e-10}
+      rotation: {x: 4.85318843e-08, y: .961248755, z: -.275682509, w: 6.46227178e-08}
+      scale: {x: 1, y: 1.00000036, z: .99999994}
+      transformModified: 1
+    - name: metarig|heel.R
+      position: {x: 4.49654181e-09, y: .310088247, z: 2.32830644e-10}
+      rotation: {x: .0403530672, y: .934594572, z: .353259444, w: .0106022768}
+      scale: {x: .99999994, y: .999999702, z: .99999994}
+      transformModified: 1
+    - name: metarig|heel.02.R
+      position: {x: .029978767, y: .043089021, z: .0531456321}
+      rotation: {x: .641378462, y: -.641376376, z: .297713995, w: .297718704}
+      scale: {x: .999999702, y: 1, z: .99999994}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
